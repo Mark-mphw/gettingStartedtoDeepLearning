@@ -1,2 +1,2 @@
 # gettingStartedtoDeepLearning
-For learning about deep learning
+For learn about deep learning
